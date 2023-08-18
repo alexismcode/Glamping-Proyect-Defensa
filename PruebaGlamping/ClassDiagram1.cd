@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="PROYECTO PIC (GLAMPING)">
+    <Position X="4.656" Y="0.5" Height="0.307" Width="1.832" />
+  </Comment>
+  <Comment CommentText="Clase Cliente: obtendrá información del cliente a través del ingreso de datos. Cuenta con una lista de propiedades y métodos.">
+    <Position X="0.623" Y="1.706" Height="0.75" Width="2.551" />
+  </Comment>
+  <Comment CommentText="Clase Reserva: Hereda información y métodos de la clase Cliente, para su funcionalidad.">
+    <Position X="5.573" Y="1.556" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Clase Factura: Hereda información de la clase Reserva y mostrará en pantalla los datos de facturación de la reserva.">
+    <Position X="9.541" Y="1.725" Height="0.75" Width="2.347" />
+  </Comment>
+  <Class Name="Glamping.Logica.Cliente">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Glamping.Logica.Factura">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Glamping.Logica.Reserva">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
